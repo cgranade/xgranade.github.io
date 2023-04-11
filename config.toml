@@ -1,4 +1,5 @@
 title = "Xandra Granade"
+author = "Xandra Granade"
 
 # The URL the site will be built for
 base_url = "https://www.xgranade.com"
@@ -13,6 +14,9 @@ theme = "terminimal"
 taxonomies = [
     {name = "tags"}
 ]
+
+generate_feed = true
+feed_filename = "rss.xml"
 
 [markdown]
 # Whether to do syntax highlighting
