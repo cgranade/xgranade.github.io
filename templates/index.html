@@ -1,0 +1,14 @@
+{% extends "terminimal/templates/index.html" %}
+
+
+{% block header %}
+    {{ super() }}
+    <div class="posts">
+        <div class="post">
+        <p>
+            {{ config.extra.about_me | markdown(inline=true) | safe }}
+        </p>
+        </div>
+    </div>
+    <hr>
+{% endblock %}

@@ -1,0 +1,51 @@
+title = "Xandra Granade"
+
+# The URL the site will be built for
+base_url = "https://www.xgranade.com"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+theme = "terminimal"
+taxonomies = [
+    {name = "tags"}
+]
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+[extra]
+# Put all your custom variables here
+logo_text = "xgranade"
+author = "Cassandra Granade"
+accent_color = "pink"
+page_titles = "main_only"
+about_me = """
+I have been many things.
+
+They all lead to who I am now.  
+**Xandra Granade (she/they)**, storyteller.
+"""
+
+menu_items = [
+    {name = "blog", url = "$BASE_URL"},
+    {name = "about me", url = "$BASE_URL/about"},
+    # each of these is optional, name and url are required
+    # $BASE_URL is going to be substituted by base_url from configuration
+
+    # tags should only be enabled if you have "tags" taxonomy
+    # see documentation below for more details
+    {name = "tags", url = "$BASE_URL/tags"},
+
+    # set newtab to true to make the link open in new tab
+    {name = "fediverse →", url = "https://wandering.shop/@xgranade", newtab = true, me = true},
+    {name = "amazon →", url = "https://www.amazon.com/author/cgranade", newtab = true, me = true},
+    {name = "newsletter →", url = "https://buttondown.email/xgranade", newtab = true, me = true},
+    {name = "arXiv →", url = "https://arxiv.org/a/granade_c_1.html", newtab = true, me = true},
+]
+
