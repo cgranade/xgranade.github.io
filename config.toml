@@ -25,7 +25,7 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
-logo_text = "xgranade"
+logo_text = "xgranade // Forbidden Transitions"
 author = "Cassandra Granade"
 accent_color = "pink"
 page_titles = "main_only"
