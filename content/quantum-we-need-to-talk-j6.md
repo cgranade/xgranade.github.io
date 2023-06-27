@@ -1,6 +1,6 @@
 +++
 title = "Quantum Folks, We Need to Talk About January 6th"
-date = 2023-04-11
+date = 2023-06-27
 
 [taxonomies]
 tags = ["quantum", "uspol"]
