@@ -1,3 +1,11 @@
++++
+title = "You Can't Program Quantum Computers With Python (Part I)"
+date = 2023-08-18
+
+[taxonomies]
+tags = ["tech", "politics"]
++++
+
 # A Progressive Case for the Fediverse
 
 In today's newsletter, I'll lay out my case for why progressives should, as a matter of political principle, do the work needed to embrace and work to improve the fediverse. By necessity, making that argument cannot involve endorsing the fediverse in its current state as institutionalizing racism and other forms of hate, but rather this argument implores progressives to get involved, to build communities on the fediverse, and to do both the social and technical work needed to make those communities inclusive of all races, genders, orientations, and physical and mental disabilities.
