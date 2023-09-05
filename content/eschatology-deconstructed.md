@@ -30,9 +30,9 @@ In his capacity as the main protagonist, Elwin's son Clive Rosfield is at least 
 
 These omissions are frankly racist, and in ways that undermine the game's key themes and impede its moral clarity. The game is absolutely weaker, perhaps even catastrophically so, for these problems, and should be criticized strongly on that basis. I am myself white, and thus not in the best position to give voice to these criticisms, but rather am obligated to listen to them carefully, without defensiveness, and to amplify them as best as possible. In that vein, I encourage you to read and watch the following treatments on racism in FFXVI:
 
-- https://www.themarysue.com/this-is-a-poor-excuse-for-final-fantasys-lack-of-diversity/
-- https://www.tiktok.com/@blackgaycomicgeek/video/7162599747734293803?is_from_webapp=1&web_id=6899585999673951750
-- https://www.polygon.com/reviews/23767374/final-fantasy-16-review-ff16-new-game-plus
+- [https://www.themarysue.com/this-is-a-poor-excuse-for-final-fantasys-lack-of-diversity/](https://www.themarysue.com/this-is-a-poor-excuse-for-final-fantasys-lack-of-diversity/)
+- [https://www.tiktok.com/@blackgaycomicgeek/video/7162599747734293803?is_from_webapp=1&web_id=6899585999673951750](https://www.tiktok.com/@blackgaycomicgeek/video/7162599747734293803?is_from_webapp=1&web_id=6899585999673951750)
+- [https://www.polygon.com/reviews/23767374/final-fantasy-16-review-ff16-new-game-plus](https://www.polygon.com/reviews/23767374/final-fantasy-16-review-ff16-new-game-plus)
 
 With that in mind, and in full knowledge that the game is problematic, let me proceed to discuss what _Final Fantasy XVI_ is and what it does accomplish with the sixty hours of attention it demands from its player.
 
