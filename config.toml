@@ -50,6 +50,6 @@ menu_items = [
     {name = "fediverse →", url = "https://wandering.shop/@xgranade", newtab = true, me = true},
     {name = "amazon →", url = "https://www.amazon.com/author/cgranade", newtab = true, me = true},
     {name = "newsletter →", url = "https://buttondown.email/xgranade", newtab = true, me = true},
-    {name = "arXiv →", url = "https://arxiv.org/a/granade_c_1.html", newtab = true, me = true},
+    {name = "mesoblog →", url = "https://portal.mozz.us/gemini/gemlog.xgranade.com/", newtab = true},
 ]
 
