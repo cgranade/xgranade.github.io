@@ -15,8 +15,7 @@ taxonomies = [
     {name = "tags"}
 ]
 
-generate_feed = true
-feed_filename = "rss.xml"
+generate_feeds = true
 
 [markdown]
 # Whether to do syntax highlighting
