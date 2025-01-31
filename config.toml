@@ -16,6 +16,7 @@ taxonomies = [
 ]
 
 generate_feeds = true
+feed_filenames = ["rss.xml", "atom.xml"]
 
 [markdown]
 # Whether to do syntax highlighting
