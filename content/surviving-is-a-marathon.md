@@ -1,5 +1,6 @@
 +++
 title = "Surviving is a Marathon, Art More Intimately So"
+date = 2025-01-30
 
 [taxonomies]
 tags = ["personal", "meta"]
