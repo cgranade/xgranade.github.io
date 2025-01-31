@@ -49,6 +49,6 @@ menu_items = [
     {name = "newsletter →", url = "https://buttondown.email/xgranade", newtab = true, me = true},
     {name = "fediverse →", url = "https://wandering.shop/@xgranade", newtab = true, me = true},
     {name = "mesoblog →", url = "https://portal.mozz.us/gemini/gemlog.xgranade.com/", newtab = true},
-    {name = "amazon →", url = "https://www.amazon.com/author/cgranade", newtab = true, me = true},
+    {name = "pay-what-you-want →", url = "https://ko-fi.com/xgranade", newtab = true, me = true},
 ]
 
